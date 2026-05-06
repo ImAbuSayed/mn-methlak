@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mn-methlak/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Mn Methlak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
