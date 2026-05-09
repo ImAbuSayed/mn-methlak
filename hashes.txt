@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mn Methlak
+
+This log tracks the cryptographic history and versioning for the song **Mn Methlak** (mn-methlak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:33:38.866922 | `v1` | `d3ecd1f7b6ba660934c4ea430856d92d1c9213348c25bfcc3a50a5dd7da51b13` | `4c1dfcd876c7f3d384e99c39adcc3b5ac2e9ac09e4063b8fef91a714fb2d9a58` | `2026-05-09_mn-methlak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
